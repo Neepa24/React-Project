@@ -120,7 +120,7 @@ Netlify (netlify.com)
 GitHub Pages
 
 👨‍💻 Author
-Developed by Your Name
+Developed by Neepa Kundu
 
 📄 License
 This project is licensed under the MIT License — feel free to use, share, and build upon it!
