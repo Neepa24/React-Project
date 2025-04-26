@@ -1,4 +1,5 @@
-📈 Real-Time Crypto Price Tracker
+**📈 Real-Time Crypto Price Tracker**
+
 A responsive and dynamic web application built using React.js and Redux Toolkit that tracks real-time cryptocurrency prices.
 The project simulates live WebSocket behavior by updating asset data every few seconds.
 
@@ -38,20 +39,35 @@ Copy
 Edit
 src/
 │
+
 ├── assets/              # Logos and chart images
+
 ├── components/
+
 │   ├── CryptoRow.jsx     # Component for each table row
+
 │   ├── CryptoTable.jsx   # Component for full table
+
 │
+
 ├── redux/
+
 │   ├── cryptoSlice.js    # Redux slice for crypto assets
+
 │   ├── store.js          # Redux store setup
+
 │
+
 ├── simulation/
+
 │   └── simulationSocket.jsx  # Simulates real-time updates
+
 │
+
 ├── App.jsx               # Main application component
+
 ├── index.js              # Entry point
+
 └── styles/
     └── app.css           # Main CSS for app
 🧪 Local Setup and Installation
@@ -61,7 +77,7 @@ bash
 Copy
 Edit
 # 1. Clone the Repository
-git clone https://github.com/YOUR-USERNAME/crypto-tracker-app.git
+git clone https://github.com/Neepa24/React-Project.git
 
 # 2. Move into the Project Directory
 cd crypto-tracker-app
